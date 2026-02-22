@@ -141,15 +141,15 @@ Minimal logic. Maximum clarity.
 
 This is intentionally minimal. You can extend it with:
 
-- Per-user conversation memory
-- Context reset command
-- SQLite database storage
-- Rate limiting
-- Streaming responses
-- Multi-model support
-- Logging system
-- Docker deployment
-- Webhook mode instead of polling
+- Per-user conversation memory ✅ (already done)
+- Context reset command ✅ 
+- SQLite database storage ❎
+- Rate limiting ❎
+- Streaming responses ❎
+- Multi-model support ❎
+- Logging system ✅
+- Docker deployment ❎
+- Webhook mode instead of polling ❎
 
 ---
 
