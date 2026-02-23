@@ -134,6 +134,7 @@ Minimal logic. Maximum clarity.
 |----------|------------|
 | `/start` | Start interaction |
 | `/about` | Information about the bot |
+| `/reset` | Clear user's currentcontext window |
 
 ---
 
